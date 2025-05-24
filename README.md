@@ -1,7 +1,7 @@
 # 👋 Hi, I'm SK Matrook Islam (mohakashlive)
 
 [![Portfolio](https://img.shields.io/badge/Website-www.mohakash.live-blue?style=flat-square&logo=google-chrome)](http://www.mohakash.live)
-[![Email](https://img.shields.io/badge/Email-matrook.cse@gmail.com-red?style=flat-square&logo=gmail)](mailto:matrook.cse@gmail.com)
+[![Email](https://img.shields.io/badge/Email-matrook.cse@gmail.com-red?style=flat-square&logo=gmail)](mailto:matrook.aust@gmail.com)
 
 ---
 ## 🧑‍💻 About Me
@@ -29,7 +29,7 @@ I'm SK Matrook Islam, a Computer Engineering graduate from Ahsanullah University
 ## 🌐 Find Me Online
 
 - [🌍 Portfolio/Blog/Projects](http://www.mohakash.live)
-- [📧 Email](mailto:matrook.cse@gmail.com)
+- [📧 Email](mailto:matrook.aust@gmail.com)
 
 ---
 
